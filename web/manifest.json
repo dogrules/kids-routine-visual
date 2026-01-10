@@ -1,0 +1,21 @@
+{
+  "name": "Kids Routine Visual",
+  "short_name": "Kids Routine",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFF3E0",
+  "theme_color": "#FF9800",
+  "description": "Kids routine visual helper",
+  "icons": [
+    {
+      "src": "icons/Icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
